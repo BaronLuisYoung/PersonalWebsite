@@ -30,7 +30,7 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 20vh;
     text-align: center;
 }
 
@@ -106,4 +106,9 @@ a{
         padding-left: 1.5rem;
         padding-top: 2rem;
     }
+}
+
+
+.smaller-text {
+    font-size: 14px; /* Adjust the font size for the sponsor text (smaller) */
 }
